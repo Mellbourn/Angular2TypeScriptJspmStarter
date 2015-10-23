@@ -1,5 +1,11 @@
 {
   "jspm": {
+    "dependencies": {
+      "angular2": "npm:angular2@^2.0.0-alpha.44",
+      "core-js": "npm:core-js@^1.2.3",
+      "css": "github:systemjs/plugin-css@^0.1.19",
+      "reflect-metadata": "npm:reflect-metadata@^0.1.2"
+    },
     "devDependencies": {
       "typescript": "npm:typescript@^1.6.2"
     }
